@@ -2,7 +2,7 @@
 
 Interact with objects and solve puzzles to clear a path for Tiny Terry and help him steal from various levels in a castle without getting caught! <br>
 
-Check out the gampley here:<br>
+Check out the gamplay here:<br>
 https://www.youtube.com/watch?v=uYzmMImgqIg
 
 Stealth Puzzler for Windows VR/MR
